@@ -1,0 +1,77 @@
+PATTERN 1 -------------------------------------------------------
+this is things - 10, and this is pattern number - 1
+Thread 2 is starting with address 0x7fe750f966c0
+Thread 2 with address: 0x7fe750f966c0 will sleep for 1 seconds
+Thread 1 is starting with address 0x7fe7517976c0
+Thread 1 with address: 0x7fe7517976c0 will sleep for 6 seconds
+Thread 3 is starting with address 0x7fe7507956c0
+Thread 3 with address: 0x7fe7507956c0 will sleep for 7 seconds
+Thread 4 is starting with address 0x7fe74ff946c0
+Thread 4 with address: 0x7fe74ff946c0 will sleep for 6 seconds
+Thread 5 is starting with address 0x7fe74f7936c0
+Thread 5 with address: 0x7fe74f7936c0 will sleep for 7 seconds
+Thread 6 is starting with address 0x7fe74ef926c0
+Thread 6 with address: 0x7fe74ef926c0 will sleep for 8 seconds
+Thread 7 is starting with address 0x7fe74e7916c0
+Thread 7 with address: 0x7fe74e7916c0 will sleep for 6 seconds
+Thread 8 is starting with address 0x7fe74df906c0
+Thread 8 with address: 0x7fe74df906c0 will sleep for 8 seconds
+Thread 9 is starting with address 0x7fe74d78f6c0
+Thread 9 with address: 0x7fe74d78f6c0 will sleep for 2 seconds
+Thread 10 is starting with address 0x7fe74cf8e6c0
+Thread 10 with address: 0x7fe74cf8e6c0 will sleep for 1 seconds
+Thread 10 is now exiting with address: 0x7fe74cf8e6c0
+Thread 2 is now exiting with address: 0x7fe750f966c0
+Thread 9 is now exiting with address: 0x7fe74d78f6c0
+Thread 1 is now exiting with address: 0x7fe7517976c0
+Thread 7 is now exiting with address: 0x7fe74e7916c0
+Thread 4 is now exiting with address: 0x7fe74ff946c0
+Thread 5 is now exiting with address: 0x7fe74f7936c0
+Thread 3 is now exiting with address: 0x7fe7507956c0
+Thread 8 is now exiting with address: 0x7fe74df906c0
+Thread 6 is now exiting with address: 0x7fe74ef926c0
+
+=================================================================
+
+PATTERN 2 -------------------------------------------------------
+
+this is things - 10, and this is pattern number - 2
+Thread 1 is starting with address 0x7f6f678c76c0
+Thread 1 with address: 0x7f6f678c76c0 will sleep for 1 seconds
+Thread 1 is creating thread 2
+Thread 2 is starting with address 0x7f6f670c66c0
+Thread 2 with address: 0x7f6f670c66c0 will sleep for 2 seconds
+Thread 2 is creating thread 3
+Thread 3 is starting with address 0x7f6f668c56c0
+Thread 3 with address: 0x7f6f668c56c0 will sleep for 7 seconds
+Thread 3 is creating thread 4
+Thread 4 is starting with address 0x7f6f660c46c0
+Thread 4 with address: 0x7f6f660c46c0 will sleep for 5 seconds
+Thread 4 is creating thread 5
+Thread 5 is starting with address 0x7f6f658c36c0
+Thread 5 with address: 0x7f6f658c36c0 will sleep for 1 seconds
+Thread 5 is creating thread 6
+Thread 6 is starting with address 0x7f6f650c26c0
+Thread 6 with address: 0x7f6f650c26c0 will sleep for 7 seconds
+Thread 6 is creating thread 7
+Thread 7 is starting with address 0x7f6f648c16c0
+Thread 7 with address: 0x7f6f648c16c0 will sleep for 7 seconds
+Thread 7 is creating thread 8
+Thread 8 is starting with address 0x7f6f47fff6c0
+Thread 8 with address: 0x7f6f47fff6c0 will sleep for 6 seconds
+Thread 8 is creating thread 9
+Thread 9 is starting with address 0x7f6f477fe6c0
+Thread 9 with address: 0x7f6f477fe6c0 will sleep for 5 seconds
+Thread 9 is creating thread 10
+Thread 10 is starting with address 0x7f6f46ffd6c0
+Thread 10 with address: 0x7f6f46ffd6c0 will sleep for 5 seconds
+Thread 10 is now exiting with address: 0x7f6f46ffd6c0
+Thread 9 is now exiting with address: 0x7f6f477fe6c0
+Thread 8 is now exiting with address: 0x7f6f47fff6c0
+Thread 7 is now exiting with address: 0x7f6f648c16c0
+Thread 6 is now exiting with address: 0x7f6f650c26c0
+Thread 5 is now exiting with address: 0x7f6f658c36c0
+Thread 4 is now exiting with address: 0x7f6f660c46c0
+Thread 3 is now exiting with address: 0x7f6f668c56c0
+Thread 2 is now exiting with address: 0x7f6f670c66c0
+Thread 1 is now exiting with address: 0x7f6f678c76c0
